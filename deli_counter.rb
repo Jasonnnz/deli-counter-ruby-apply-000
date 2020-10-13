@@ -13,11 +13,10 @@ def line(array)
     puts phrase
   end
 end
-
+count = 1
 def take_a_number()
   # array.push(name)
   # puts "Welcome, #{name}. You are number #{array.length} in line."
-  count = 1
   puts count
   count += 1 
 end
